@@ -2,7 +2,8 @@
 
 AI Resume Builder is a full-stack web application that allows users to generate professional, ATS-optimized resumes using OpenAI's GPT language model. Users can input their personal, educational, and professional information, select a resume template, preview the result, and export it in PDF or DOCX format.
 
----
+Live Demo
+---https://vundla.github.io/ai-resume-builder/
 
 ## 🔧 Features
 
